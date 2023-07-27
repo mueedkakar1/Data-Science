@@ -5,7 +5,7 @@ Data science also integrates domain knowledge from the underlying application do
 
 Data science is a "concept to unify statistics, data analysis, informatics, and their related methods" in order to "understand and analyse actual phenomena" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.
 
-#Data Science Process:
+# Data Science Process:
 1. Data collention.
 2. Data cleaning and processing.
 3. Statistical analysis and modeling.
@@ -13,7 +13,7 @@ Data science is a "concept to unify statistics, data analysis, informatics, and 
 5. Data visualization and communication.
 6. Developing data-driven solutions to real-world problems. The process is iterative and involves going back and forth between different steps as necessary
 
-#Introduction to Python
+# Introduction to Python
 In week 2 we studied few basic python commands and learned the use 
 1. Functions
 2. Types and sequences
@@ -23,7 +23,7 @@ In week 2 we studied few basic python commands and learned the use
 6. Objects and Map()
 7. Lambda and list comprehensions
 
-#Introduction to Numpy
+# Introduction to Numpy
 Numpy is a powerful library in Python used for numerical computations. It stands for "Numerical Python" and provides support for large, multi-dimensional arrays and matrices, along with a wide range of mathematical functions to operate on these arrays efficiently.
 Hello! Numpy is a powerful library in Python used for numerical computations. It stands for "Numerical Python" and provides support for large, multi-dimensional arrays and matrices, along with a wide range of mathematical functions to operate on these arrays efficiently.
 
